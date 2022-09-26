@@ -1,0 +1,9 @@
+{
+  "db": {
+    "user": "campus",
+    "host": "localhost",
+    "port": "27017",
+    "name": "campus",
+    "jwtSecret": "9b2f721681ea4274e4f353bc8902580c" 
+  }
+}

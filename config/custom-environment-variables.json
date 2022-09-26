@@ -1,0 +1,9 @@
+{
+  "db": {
+    "pwd": "APP_PWD"
+  },
+  "miniProgram": {
+    "appId": "APP_ID",
+    "appSecret": "APP_SECRET"
+  }
+}
